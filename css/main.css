@@ -10,7 +10,7 @@ Table of contents
     01. Navbar
     02. Slider
     03. About us
-    04. Services
+    04. Skills
     05. Some Facts
     06. Portfolio
     07. Testimonials
@@ -187,31 +187,31 @@ body {
 
 
 /* ==========================
-   [04]. Services
+   [04]. Skills
 ========================== */
-.services {
+.skills {
     padding-bottom: 90px;
     background: #2d2e2e;
 }
 
-.services h2 {
+.skills h2 {
     font-size: 30px;
     font-weight: 800;
     color: #e0a80d;
     margin-bottom: 60px;
 }
 
-.services .box {
+.skills .box {
     padding: 40px;
     margin-bottom: 30px;
     background: #212222;
 }
-.services .box span {
+.skills .box span {
     font-size: 30px;
     color: #e0a80d;
 }
 
-.services .box h3 {
+.skills .box h3 {
     font-size: 18px;
     font-weight: 700;
     color: #eee;
@@ -220,7 +220,7 @@ body {
     margin: 20px 0;
 }
 
-.services .box p {
+.skills .box p {
     font-size: 14px;
     color: #bac8d3;
     font-weight: 400;
